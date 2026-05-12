@@ -49,6 +49,7 @@ Me enfoco en transformar lógica compleja en sistemas robustos. No solo escribo 
     <img src="https://github-profile-trophy.vercel.app/?username=Cabra0711&theme=tokyonight&no-bg=true&margin-w=15&column=4" alt="Cabra0711 Trophies" />
   </a>
 </p>
+---
 
 ### 📬 Conectemos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_LINKEDIN)
