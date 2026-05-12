@@ -36,10 +36,10 @@ Me enfoco en transformar lógica compleja en sistemas robustos. No solo escribo 
 
 ---
 
-### 📊 GitHub Analysis
+### GitHub Analysis
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&langs_count=7&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cabra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cabra&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
 ---
