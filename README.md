@@ -1,88 +1,48 @@
-<div align="center">
+# 🌌 [Cabra] | Backend Architect & Software Strategist
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=620&lines=Backend+Architect+%26+Software+Strategist;Onion+%26+Clean+Architecture+Patterns;Infrastructure+%26+Observability;Fullstack+Development" alt="Typing SVG" />
-
-</div>
-
----
-
-### 👋 Sobre mí
-
-Transformo lógica compleja en sistemas robustos. No solo escribo código — diseño la estructura que lo sostiene. Actualmente profundizando en el ecosistema **.NET** y arquitecturas desacopladas.
-
-- 🛠️ **Enfoque:** Arquitectura de Cebolla (Onion), Patrón Repositorio y Clean Code
-- 🎯 **Meta actual:** Dominio avanzado de Observabilidad y Microservicios
-- 🤝 **Metodología:** Agile Mindset bajo marcos de trabajo **SCRUM**
-- 📝 **Documentación:** Manuales técnicos y guías de arquitectura (Docusaurus/Markdown)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=45A1FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Architectures;Onion+and+Clean+Patterns;Infrastructure+%26+Observability;Fullstack+Development" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+### ⚡ Sobre el "Clan" de Desarrollo
+Me enfoco en transformar lógica compleja en sistemas robustos. No solo escribo código; diseño la estructura que lo sostiene. Actualmente escalando mis habilidades en el ecosistema **.NET** y profundizando en **arquitecturas desacopladas**.
 
-**Core & Backend**
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Frontend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+- 🛠️ **Enfoque Principal:** Arquitectura de Cebolla (Onion), Patrón Repositorio y Clean Code.
+- 🎯 **Especialidad:** Backend escalable con ASP.NET Core y Entity Framework.
+- 🤝 **Metodología:** Agile Mindset bajo marcos de trabajo **SCRUM**.
+- 🌍 **Idiomas:** Fluidez técnica en Español e Inglés (Nivel C1).
 
 ---
 
-### 📊 GitHub Stats
->
-> [![streak](https://streak-stats.demolab.com?user=Cabra0711&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+### 🛠️ Tech Universe & Ecosystem
+
+| Capa | Tecnologías |
+| :--- | :--- |
+| **Backend Core** | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
+| **Frameworks** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Infra & Docs** | ![VPS](https://img.shields.io/badge/VPS_Hosting-232F3E?style=for-the-badge&logo=linux&logoColor=white) ![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?style=for-the-badge&logo=docusaurus&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Multer](https://img.shields.io/badge/Multer-grey?style=for-the-badge) |
 
 ---
 
-### 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Cabra0711&theme=tokyonight&no-bg=true&margin-w=15&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+### 🧩 Proyectos y Especialidades
+- **Technical Documentation:** Creador de **ANDROMEDA**, sitio de documentación técnica minimalista.
+- **Deployment & Ops:** Administración de servidores **VPS** y orquestación con Docker.
+- **Sistemas de Gestión:** Desarrollo de plataformas como **NOVA** (Excuses Tracking) y **Estelar Scheduling**.
+- **Seguridad:** Implementación de autenticación avanzada con JWT y esquemas de identidad.
 
 ---
 
-### 🧩 Soft Skills & Workflow
-
-> *"El software es un deporte de equipo."*
-
-- **SCRUM:** Sprints, Daily Stand-ups y Retrospectivas orientadas a entrega continua de valor
-- **Comunicación asertiva:** Traducción de requerimientos técnicos a lenguaje de negocio y viceversa
-- **Liderazgo técnico:** Mentoría y revisión de código bajo estándares de la industria
-- **Documentación proactiva:** Guías de arquitectura y manuales técnicos
+### 📊 GitHub Analysis
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cabra0711&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cabra0711&layout=compact&langs_count=7&theme=tokyonight&v=1" />
+</p>
 
 ---
 
 ### 📬 Conectemos
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](TU_LINK_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tuemail@ejemplo.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Cabra0711)
-
----
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Cabra0711&style=flat-square&color=7F77DD" alt="profile views" />
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_AQUI)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@ejemplo.com)
