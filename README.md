@@ -49,16 +49,6 @@ Transformo lógica compleja en sistemas robustos. No solo escribo código — di
 ---
 
 ### 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cabra0711&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/Cabra0711)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cabra0711&layout=compact&langs_count=7&theme=tokyonight&hide_border=true)](https://github.com/Cabra0711)
-
-</div>
-
-> ⚠️ Si las stats no cargan, es por rate limiting del servicio. Alternativa estable:
 >
 > [![streak](https://streak-stats.demolab.com?user=Cabra0711&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
