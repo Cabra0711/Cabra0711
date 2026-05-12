@@ -38,7 +38,8 @@ Me enfoco en transformar lógica compleja en sistemas robustos. No solo escribo 
 
 ### GitHub Analysis
 <p align="center">
-  <img src="https://isometric-contributions.vercel.app/api?username=Cabra0711&theme=tokyonight&flat=false" width="100%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cabra0711&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cabra0711&layout=compact&langs_count=7&theme=tokyonight&v=1" />
 </p>
 
 ---
