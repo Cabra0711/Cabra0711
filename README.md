@@ -38,7 +38,7 @@ Me enfoco en transformar lógica compleja en sistemas robustos. No solo escribo 
 
 ### GitHub Analysis
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cabra0711&theme=tokyonight&area=true&hide_border=true" width="100%" />
+  <img src="https://isometric-contributions.vercel.app/api?username=Cabra0711&theme=tokyonight&flat=false" width="100%" />
 </p>
 
 ---
