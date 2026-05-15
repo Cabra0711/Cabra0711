@@ -6,7 +6,7 @@
 
 ---
 
-### ⚡ Sobre mí & Mi Workflow
+### Sobre mí & Mi Workflow
 Desarrollador enfocado en la creación de ecosistemas de software robustos. Mi pasión es la **Onion Architecture** y el diseño de sistemas que no solo funcionan, sino que escalan bajo estándares de industria.
 
 -  **Arquitectura:** Especialista en Onion & Clean Architecture, Repository Pattern y Clean Code.
