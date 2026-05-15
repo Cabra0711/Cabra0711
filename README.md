@@ -50,7 +50,7 @@ Desarrollador enfocado en la creación de ecosistemas de software robustos. Mi p
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cabra0711/Cabra0711/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cabra0711/Cabra0711/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SAOT31/SAOT31/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Cabra0711/Cabra0711/output/pacman-contribution-graph.svg">
   </picture>
 </p>
 
