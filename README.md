@@ -9,10 +9,10 @@
 ### ⚡ Sobre mí & Mi Workflow
 Desarrollador enfocado en la creación de ecosistemas de software robustos. Mi pasión es la **Onion Architecture** y el diseño de sistemas que no solo funcionan, sino que escalan bajo estándares de industria.
 
-- 🛠️ **Arquitectura:** Especialista en Onion & Clean Architecture, Repository Pattern y Clean Code.
-- 🎯 **Ecosistema:** Dominio profundo de **.NET (C#)** y transición hacia microservicios.
-- 🤝 **Metodología:** Gestión ágil bajo marcos **SCRUM** (Daily, Sprints, Retros).
-- 🌍 **Comunicación:** Nivel **C1 de Inglés** para colaboración técnica internacional.
+-  **Arquitectura:** Especialista en Onion & Clean Architecture, Repository Pattern y Clean Code.
+- **Ecosistema:** Dominio profundo de **.NET (C#)** y transición hacia microservicios.
+- **Metodología:** Gestión ágil bajo marcos **SCRUM** (Daily, Sprints, Retros).
+- **Comunicación:** Nivel **C1 de Inglés** para colaboración técnica internacional.
 
 ---
 
@@ -28,7 +28,7 @@ Desarrollador enfocado en la creación de ecosistemas de software robustos. Mi p
 
 ---
 
-### 🧩 Especialidades y Proyectos Reales
+### Especialidades y Proyectos Reales
 - **Technical Documentation:** Líder del proyecto **ANDROMEDA**, enfocada en estética minimalista y alta legibilidad.
 - **Observability:** Implementación de stacks de monitoreo (Docker + Grafana + Prometheus) para trazabilidad de datos.
 - **Scheduling Systems:** Desarrollo del **Estelar Scheduling System**, manejando lógica compleja de turnos y Fluent API.
@@ -36,7 +36,7 @@ Desarrollador enfocado en la creación de ecosistemas de software robustos. Mi p
 
 ---
 
-### 📊 GitHub Analysis
+### GitHub Analysis
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cabra0711&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=2" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cabra0711&layout=compact&langs_count=7&theme=tokyonight&v=2" />
@@ -44,6 +44,6 @@ Desarrollador enfocado en la creación de ecosistemas de software robustos. Mi p
 
 ---
 
-### 📬 Conectemos
+### Conectemos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_AQUI)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@ejemplo.com)
