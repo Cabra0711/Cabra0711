@@ -38,8 +38,20 @@ Desarrollador enfocado en la creación de ecosistemas de software robustos. Mi p
 
 ### GitHub Analysis
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cabra0711&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=2" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cabra0711&layout=compact&langs_count=7&theme=tokyonight&v=2" />
+  <img src="https://komarev.com/ghpvc/?username=SAOT31&label=Profile%20Views&color=0077B5&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SAOT31&show_icons=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SAOT31&layout=compact&hide_border=true" width="41%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAOT31/SAOT31/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SAOT31/SAOT31/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SAOT31/SAOT31/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
 
 ---
