@@ -1,4 +1,4 @@
-# [Cabra] | Backend Architect & Fullstack Engineer
+# [Juan Esteban Cabrera Perez] | Backend Architect & Fullstack Engineer
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=45A1FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Architectures;Onion+and+Clean+Patterns;Infrastructure+%26+Observability;Fullstack+.NET+Expert" alt="Typing SVG" />
@@ -42,8 +42,8 @@ Desarrollador enfocado en la creación de ecosistemas de software robustos. Mi p
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cabra0711&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Cabra0711&layout=compact&hide_border=true" width="41%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cabra0711&show_icons=true&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Cabra0711&layout=compact&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
