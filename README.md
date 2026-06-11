@@ -6,19 +6,19 @@
 
 ---
 
-### Sobre mí & Mi Workflow
-Desarrollador enfocado en la creación de ecosistemas de software robustos. Mi pasión es la **Onion Architecture** y el diseño de sistemas que no solo funcionan, sino que escalan bajo estándares de industria.
+### About Me & My Workflow
+Developer focused on engineering robust software ecosystems. My passion lies in **Onion Architecture** and designing systems that don't just work, but scale seamlessly under industry standards.
 
--  **Arquitectura:** Especialista en Onion & Clean Architecture, Repository Pattern y Clean Code.
-- **Ecosistema:** Dominio profundo de **.NET (C#)** y transición hacia microservicios.
-- **Metodología:** Gestión ágil bajo marcos **SCRUM** (Daily, Sprints, Retros).
-- **Comunicación:** Nivel **C1 de Inglés** para colaboración técnica internacional.
+- 🏗️ **Architecture:** Specialist in Onion & Clean Architecture, Repository Pattern, and Clean Code.
+- ⚙️ **Ecosystem:** Deep mastery of **.NET (C#)** and transition toward microservices.
+- 🚀 **Methodology:** Agile management under **SCRUM** frameworks (Dailies, Sprints, Retros).
+- 🌐 **Communication:** **C1 English** level for international technical collaboration.
 
 ---
 
 ### Tech Universe & Ecosystem
 
-| Categoría | Tecnologías |
+| Category | Technologies |
 | :--- | :--- |
 | **Backend Core** | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
 | **Frontend & Web** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) |
@@ -28,11 +28,11 @@ Desarrollador enfocado en la creación de ecosistemas de software robustos. Mi p
 
 ---
 
-### Especialidades y Proyectos Reales
-- **Technical Documentation:** Líder del proyecto **ANDROMEDA**, enfocada en estética minimalista y alta legibilidad.
-- **Observability:** Implementación de stacks de monitoreo (Docker + Grafana + Prometheus) para trazabilidad de datos.
-- **Scheduling Systems:** Desarrollo del **Estelar Scheduling System**, manejando lógica compleja de turnos y Fluent API.
-- **Educational Tools:** Implementación de **NOVA**, optimizando la gestión de certificados académicos.
+### Specializations and Real-World Projects
+- 📄 **Technical Documentation:** Lead developer of the **ANDROMEDA** project, focused on minimalist aesthetics and high readability.
+- 📊 **Observability:** Implementation of full monitoring stacks (Docker + Grafana + Prometheus) for robust data traceability.
+- 🗓️ **Scheduling Systems:** Architecture and development of the **Estelar Scheduling System**, handling complex queue logic and Fluent API configurations.
+- 🎓 **Educational Tools:** Development of **NOVA**, optimizing the management and workflow of academic certificates.
 
 ---
 
@@ -56,6 +56,6 @@ Desarrollador enfocado en la creación de ecosistemas de software robustos. Mi p
 
 ---
 
-### Conectemos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_AQUI)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@ejemplo.com)
+### Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINK_HERE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
