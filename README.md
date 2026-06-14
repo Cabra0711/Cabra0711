@@ -5,7 +5,7 @@
 <div align="center">
   
   <!-- HEADER CON TEXTO NEGRO Y DESCRIPCIÓN BLANCA -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=350&color=0:0d1117,50:ff003c,100:0d1117&text=JUAN%20ESTEBAN%20CABRERA&fontSize=45&fontColor=00000&fontAlignY=35&desc=Backend%20Architect%20|%20Fullstack%20Engineer%20|%20Code%20Alchemist&descSize=18&descAlignY=55&descColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=2"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=350&color=0:000000,50:000000,100:000000&text=JUAN%20ESTEBAN%20CABRERA&fontSize=45&fontColor=FFFFF&fontAlignY=35&desc=Backend%20Architect%20|%20Fullstack%20Engineer%20|%20Code%20Alchemist&descSize=18&descAlignY=55&descColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=2"/>
 
   <!-- BADGES PREMIUM -->
   <a href="https://github.com/Cabra0711">
