@@ -4,10 +4,10 @@
 
 <div align="center">
   
-  <!-- HEADER ANIMADO CON EFECTO NEON -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=350&color=0:0d1117,50:ff003c,100:0d1117&text=JUAN%20ESTEBAN%20CABRERA&fontSize=45&fontColor=ff003c&fontAlignY=35&desc=Backend%20Architect%20|%20Fullstack%20Engineer%20|%20Code%20Alchemist&descSize=18&descAlignY=55&descColor=c9d1d9&animation=twinkling&stroke=ff003c&strokeWidth=2"/>
+  <!-- HEADER CON TEXTO NEGRO -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=350&color=0:0d1117,50:ff003c,100:0d1117&text=JUAN%20ESTEBAN%20CABRERA&fontSize=45&fontColor=000000&fontAlignY=35&desc=Backend%20Architect%20|%20Fullstack%20Engineer%20|%20Code%20Alchemist&descSize=18&descAlignY=55&descColor=c9d1d9&animation=twinkling&stroke=ffffff&strokeWidth=2"/>
 
-  <!-- BADGES PREMIUM CON EFECTO NEON -->
+  <!-- BADGES PREMIUM -->
   <a href="https://github.com/Cabra0711">
     <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0d1117&borderColor=00ff41" alt="Status"/>
   </a>
@@ -18,22 +18,18 @@
     <img src="https://img.shields.io/badge/STACK-.NET%20ECOSYSTEM-00d4ff?style=for-the-badge&logo=dotnet&logoColor=00d4ff&labelColor=0d1117" alt="Stack"/>
   </a>
 
-  <!-- SEPARADOR ANIMADO -->
+  <!-- SEPARADOR -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-  <!-- TYPING EFFECT PREMIUM -->
+  <!-- TYPING -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&width=800&height=60&lines=⚡+Crafting+Scalable+Architectures+⚡;🔥+Clean+Code+Evangelist+🔥;🚀+Microservices+Engineer+🚀;⚙️+Infrastructure+%26+DevOps+⚙️" alt="Typing"/>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- ║                    MATRIX RAIN DIVIDER                            ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- MATRIX DIVIDER -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/snake/images/matrix.svg" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- ║                    ABOUT ME · GLASS CARD                          ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ABOUT -->
 <div align="center">
 
 ### 🜁 SYSTEM OVERVIEW 🜁
@@ -52,14 +48,11 @@
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- ║                    TECH ARSENAL · NEON GRID                       ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- TECH -->
 <div align="center">
 
 ### 🜂 TECH ARSENAL 🜂
 
-<!-- LENGUAJES -->
 **<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="20"> LANGUAGES**
 <br>
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white&labelColor=0d1117&color=ff003c)
@@ -70,7 +63,7 @@
 
 <br>
 
-**⚡ FRAMEWORKS & RUNTIMES**
+**⚡ FRAMEWORKS**
 <br>
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white&labelColor=0d1117&color=512bd4)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0d1117&color=339933)
@@ -78,7 +71,7 @@
 
 <br>
 
-**🗄️ DATA & STORAGE**
+**🗄️ DATA**
 <br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0d1117&color=4169e1)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0d1117&color=4479a1)
@@ -87,7 +80,7 @@
 
 <br>
 
-**🐳 INFRASTRUCTURE & DEVOPS**
+**🐳 INFRASTRUCTURE**
 <br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0d1117&color=2496ed)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=0d1117&color=326ce5)
@@ -107,9 +100,7 @@
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- ║                    PROJECTS SHOWCASE · DARK CARDS                 ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- PROJECTS -->
 <div align="center">
 
 ### 🜃 FEATURED DEPLOYMENTS 🜃
@@ -118,12 +109,10 @@
 
 <div align="center">
 
-<!-- PROYECTO 1 -->
 <a href="https://github.com/Cabra0711">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cabra0711&repo=ANDROMEDA&theme=radical&bg_color=0d1117&title_color=ff003c&text_color=c9d1d9&icon_color=ff003c&hide_border=true&border_radius=15" />
 </a>
 &nbsp;&nbsp;
-<!-- PROYECTO 2 -->
 <a href="https://github.com/Cabra0711">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cabra0711&repo=Estelar-Scheduling&theme=radical&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff&hide_border=true&border_radius=15" />
 </a>
@@ -132,7 +121,7 @@
 
 | 🚀 **ANDROMEDA** | ⚡ **Estelar Scheduling** | 🔥 **NOVA Platform** | 🛰️ **Observability Stack** |
 |:---:|:---:|:---:|:---:|
-| *Technical Documentation Engine* | *Enterprise Scheduling System* | *Academic Validation Platform* | *Monitoring Infrastructure* |
+| *Technical Documentation* | *Enterprise Scheduling* | *Academic Validation* | *Monitoring Infrastructure* |
 | `C#` `.NET` `Docusaurus` | `C#` `Quartz.NET` `PostgreSQL` | `PHP` `Laravel` `MySQL` | `Docker` `Prometheus` `Grafana` |
 | ![Active](https://img.shields.io/badge/●-LIVE-00ff41?style=flat-square&labelColor=0d1117) | ![Completed](https://img.shields.io/badge/●-STABLE-00d4ff?style=flat-square&labelColor=0d1117) | ![Completed](https://img.shields.io/badge/●-DEPLOYED-ff003c?style=flat-square&labelColor=0d1117) | ![Active](https://img.shields.io/badge/●-MONITORING-ffd700?style=flat-square&labelColor=0d1117) |
 
@@ -140,30 +129,24 @@
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- ║                    GITHUB METRICS · DARK DASHBOARD                ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- STATS -->
 <div align="center">
 
 ### 🜄 SYSTEM METRICS 🜄
 
-<!-- STATS CON EFECTO NEON -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cabra0711&show_icons=true&include_all_commits=true&count_private=true&theme=radical&bg_color=0d1117&title_color=ff003c&icon_color=ff003c&text_color=c9d1d9&hide_border=true&border_radius=20&custom_title=⚡%20Development%20Metrics" alt="Stats"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cabra0711&layout=compact&theme=radical&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff&hide_border=true&border_radius=20&custom_title=🔥%20Code%20Distribution" alt="Languages"/>
 
 <br><br>
 
-<!-- STREAK STATS -->
 <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Cabra0711&theme=radical&background=0d1117&stroke=ff003c&ring=ff003c&fire=00d4ff&currStreakNum=00d4ff&sideNums=ff003c&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&hide_border=true&border_radius=20" alt="Streak"/>
 
 <br><br>
 
-<!-- ACTIVITY GRAPH -->
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Cabra0711&bg_color=0d1117&color=ff003c&line=00d4ff&point=ff003c&area=true&hide_border=true&custom_title=📊%20Contribution%20Heatmap" alt="Activity"/>
 
 <br><br>
 
-<!-- SNAKE ANIMATION -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cabra0711/Cabra0711/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cabra0711/Cabra0711/output/github-contribution-grid-snake.svg">
@@ -174,9 +157,7 @@
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- ║                    CONNECT · NEON TERMINAL                        ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- CONNECT -->
 <div align="center">
 
 ### 🜏 ESTABLISH CONNECTION 🜏
@@ -195,7 +176,6 @@
 
 <br><br>
 
-<!-- QUOTE TERMINAL -->
 ```diff
 + SYSTEM STATUS: OPERATIONAL
 + CURRENT FOCUS: Microservices Architecture
