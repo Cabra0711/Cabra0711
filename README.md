@@ -4,8 +4,8 @@
 
 <div align="center">
   
-  <!-- HEADER CON TEXTO NEGRO -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=350&color=0:0d1117,50:ff003c,100:0d1117&text=JUAN%20ESTEBAN%20CABRERA&fontSize=45&fontColor=000000&fontAlignY=35&desc=Backend%20Architect%20|%20Fullstack%20Engineer%20|%20Code%20Alchemist&descSize=18&descAlignY=55&descColor=c9d1d9&animation=twinkling&stroke=ffffff&strokeWidth=2"/>
+  <!-- HEADER CON TEXTO NEGRO Y DESCRIPCIÓN BLANCA -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=350&color=0:0d1117,50:ff003c,100:0d1117&text=JUAN%20ESTEBAN%20CABRERA&fontSize=45&fontColor=000000&fontAlignY=35&desc=Backend%20Architect%20|%20Fullstack%20Engineer%20|%20Code%20Alchemist&descSize=18&descAlignY=55&descColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=2"/>
 
   <!-- BADGES PREMIUM -->
   <a href="https://github.com/Cabra0711">
@@ -22,7 +22,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
   <!-- TYPING -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&width=800&height=60&lines=⚡+Crafting+Scalable+Architectures+⚡;🔥+Clean+Code+Evangelist+🔥;🚀+Microservices+Engineer+🚀;⚙️+Infrastructure+%26+DevOps+⚙️" alt="Typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&width=800&height=60&lines=%E2%9A%A1+Crafting+Scalable+Architectures+%E2%9A%A1;%F0%9F%94%A5+Clean+Code+Evangelist+%F0%9F%94%A5;%F0%9F%9A%80+Microservices+Engineer+%F0%9F%9A%80;%E2%9A%99%EF%B8%8F+Infrastructure+%26+DevOps+%E2%9A%99%EF%B8%8F" alt="Typing"/>
 
 </div>
 
